@@ -1,3 +1,5 @@
+### ⚠️⚠️ Due to an update in google contacts csv format this code is no longer valid but still relevant for database treatment learning purpose if you have a fitting database format on hand⚠️⚠️
+
 # Update Beninese Phone Numbers to Ten-Digit Format
 
 ## Context
